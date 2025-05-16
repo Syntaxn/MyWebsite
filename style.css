@@ -1,0 +1,10 @@
+body {
+  background-color: lightyellow;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.text {
+  color: darkred;
+  font-size: 20px;
+}
